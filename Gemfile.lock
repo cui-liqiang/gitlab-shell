@@ -1,5 +1,5 @@
 GEM
-  remote: http://rubygems.org/
+  remote: https://ruby.taobao.org/
   specs:
     addressable (2.3.2)
     ast (2.0.0)
